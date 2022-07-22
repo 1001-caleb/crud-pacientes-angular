@@ -3,10 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
 };
 
-export const API = 'https://nest-api-pacientes.herokuapp.com/'
+export const API = 'https://nest-api-pacientes.herokuapp.com/';
 
 /*
  * For easier debugging in development mode, you can import the following file

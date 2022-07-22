@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "crud-angular-89382": {
+      "hosting": {
+        "crud-pacientes": [
+          "crud-angular-89382"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "crud-angular-89382"
+  }
+}
